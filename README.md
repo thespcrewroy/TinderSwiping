@@ -1,5 +1,6 @@
-# AuthFit
+# TinderSwiping
 ---
 ## Video Demonstration:
-[![Alt text](https://img.youtube.com/vi/WTCIIdSxvLg/0.jpg)]([https://www.youtube.com/watch?v=WTCIIdSxvLg](https://youtu.be/fGl0PwG4_yc))
+[![Alt text](![image](https://github.com/thespcrewroy/TinderSwiping/assets/68826225/0a97ed7d-44a0-4cf1-ba13-795a716d585b)
+)](https://www.youtube.com/watch?v=fGl0PwG4_yc)
 ---
